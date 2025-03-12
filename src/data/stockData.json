@@ -1,0 +1,28 @@
+{
+    "topGainers": [
+      { "ticker": "KMSW", "price": "0.0297", "change_amount": "0.0195", "change_percentage": "191.1765%" },
+      { "ticker": "NBXL", "price": "1.44", "price": "0.66", "change_percentage": "84.8101%" },
+      { "ticker": "RHOW", "price": "0.0025", "change_amount": "0.0014", "change_percentage": "127.2727%" },
+      { "ticker": "CTK", "price": "0.25", "change_amount": "0.0775", "change_percentage": "122.2222%" },
+      { "ticker": "SOMR", "price": "0.464", "change_amount": "0.253", "change_percentage": "119.9052%" },
+      { "ticker": "CLMPW", "price": "0.39", "change_amount": "0.2021", "change_percentage": "119.0031%" },
+      { "ticker": "KACLW", "price": "0.03", "change_amount": "0.0158", "change_percentage": "111.2676%" },
+      { "ticker": "SRLSW", "price": "0.0495", "change_amount": "0.0251", "change_percentage": "102.8689%" },
+      { "ticker": "RTDOW", "price": "0.01", "change_amount": "0.005", "change_percentage": "100.0%" },
+      { "ticker": "PRLHW", "price": "0.03", "change_amount": "0.015", "change_percentage": "100.0%" },
+      { "ticker": "KWELW", "price": "0.0176", "change_amount": "0.0084", "change_percentage": "91.3043%" }
+    ],
+    "topLosers": [
+      { "ticker": "LEVIA", "price": "0.0139", "change_amount": "-0.056", "change_percentage": "-80.1144%" },
+      { "ticker": "HDJGW", "price": "0.01", "change_amount": "-0.03", "change_percentage": "-75.70%" },
+      { "ticker": "HMAWW", "price": "0.0129", "change_amount": "-0.0121", "change_percentage": "-48.4%" },
+      { "ticker": "FLYXW", "price": "0.102", "change_amount": "-0.0877", "change_percentage": "-46.2309%" },
+      { "ticker": "PETWW", "price": "0.011", "change_amount": "-0.009", "change_percentage": "-45.0%" },
+      { "ticker": "CREWW", "price": "0.022", "change_amount": "-0.018", "change_percentage": "-45.0%" },
+      { "ticker": "JMIZW", "price": "0.04", "change_amount": "-0.03", "change_percentage": "-42.8571%" },
+      { "ticker": "NPFPW", "price": "0.0202", "change_amount": "-0.0148", "change_percentage": "-42.2857%" },
+      { "ticker": "KPROX", "price": "0.0459", "change_amount": "-0.032", "change_percentage": "-41.0256%" },
+      { "ticker": "GLTR", "price": "0.1", "change_amount": "-0.0678", "change_percentage": "-40.4026%" },
+      { "ticker": "SOLNW", "price": "0.011", "change_amount": "-0.0073", "change_percentage": "-39.8907%" }
+    ]
+  }
